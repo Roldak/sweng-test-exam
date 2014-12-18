@@ -2,5 +2,5 @@ Question 1:
 ==========
 
 Is this format better than EdX?
-- [ ] yes
-- [ ] oui
+- [x] yes
+- [x] oui
